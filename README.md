@@ -77,7 +77,7 @@ mvn clean install
 java -jar target/[your-app-name].jar
 ```
 The application will start on http://localhost:8080
-###API Endpoints
+#### API Endpoints
 All endpoints use the base URL: http://localhost:8080/tasks
 | Method     | Endpoint                      | Description                                                                                                     | Request Body Example                                                  |
 | ---------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -97,6 +97,16 @@ The validator rejects any command containing:
 -Dangerous System Calls: Keywords like rm, sudo, chown, mv, bash, ssh, killall, and attempts at file viewing like cat /etc/passwd.
 
 -Directory Traversal: ../ sequences.
+
+#### Output
+1.Successful Task Creation (PUT/tasks)
+<img width="1599" height="893" alt="image" src="https://github.com/user-attachments/assets/1ce5e469-63ac-4782-be40-101030013a7c" />
+2.Secure Command Execution (PUT /tasks/execute/{id})
+<img width="1600" height="888" alt="image" src="https://github.com/user-attachments/assets/9977d1aa-b5d1-4a51-a7ae-fcf954348c0a" />
+3.
+
+
+
 
 
 
