@@ -77,6 +77,7 @@ mvn clean install
 java -jar target/[your-app-name].jar
 ```
 The application will start on http://localhost:8080
+
 #### API Endpoints
 All endpoints use the base URL: http://localhost:8080/tasks
 | Method     | Endpoint                      | Description                                                                                                     | Request Body Example                                                  |
