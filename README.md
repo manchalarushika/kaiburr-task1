@@ -100,11 +100,18 @@ The validator rejects any command containing:
 -Directory Traversal: ../ sequences.
 
 #### Output
-1.Successful Task Creation (PUT/tasks)
-<img width="1599" height="893" alt="image" src="https://github.com/user-attachments/assets/1ce5e469-63ac-4782-be40-101030013a7c" />
-2.Secure Command Execution (PUT /tasks/execute/{id})
-<img width="1600" height="888" alt="image" src="https://github.com/user-attachments/assets/9977d1aa-b5d1-4a51-a7ae-fcf954348c0a" />
-3.
+#####1.create
+<img width="1600" height="889" alt="image" src="https://github.com/user-attachments/assets/e027ad07-9654-4da9-8aec-23ab90c2c66b" />
+
+#####2.Get all data
+<img width="1595" height="897" alt="image" src="https://github.com/user-attachments/assets/12d834c2-4078-4b17-89e6-abcf1eaad75d" />
+
+#####3.Get by id
+<img width="1606" height="895" alt="image" src="https://github.com/user-attachments/assets/1e70275a-4252-44f4-86aa-c0c505927748" />
+
+#####4.Get task by name
+<img width="1611" height="901" alt="image" src="https://github.com/user-attachments/assets/50d8dbef-6ee8-4005-a80e-e39b277b6c60" />
+
 
 
 
