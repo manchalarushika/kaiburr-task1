@@ -100,16 +100,21 @@ The validator rejects any command containing:
 -Directory Traversal: ../ sequences.
 
 #### Output
-1.create
+
+1.Create
+
 <img width="1600" height="889" alt="image" src="https://github.com/user-attachments/assets/e027ad07-9654-4da9-8aec-23ab90c2c66b" />
 
 2.Get all data
+
 <img width="1595" height="897" alt="image" src="https://github.com/user-attachments/assets/12d834c2-4078-4b17-89e6-abcf1eaad75d" />
 
 3.Get by id
+
 <img width="1606" height="895" alt="image" src="https://github.com/user-attachments/assets/1e70275a-4252-44f4-86aa-c0c505927748" />
 
 4.Get task by name
+
 <img width="1611" height="901" alt="image" src="https://github.com/user-attachments/assets/50d8dbef-6ee8-4005-a80e-e39b277b6c60" />
 
 
