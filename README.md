@@ -117,7 +117,7 @@ The validator rejects any command containing:
 
 <img width="1611" height="901" alt="image" src="https://github.com/user-attachments/assets/50d8dbef-6ee8-4005-a80e-e39b277b6c60" />
 
-5.Task execusion
+5.Task execution
 
 <img width="1663" height="893" alt="image" src="https://github.com/user-attachments/assets/d98f766e-a059-4c3a-bff8-52829c5f4bb7" />
 
